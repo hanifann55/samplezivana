@@ -440,6 +440,7 @@ header .fa-bars{
 .logo{
     width: 150px;
     cursor: pointer;
+    position: relative;
     
 }
 
