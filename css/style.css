@@ -318,7 +318,7 @@ header .fa-bars{
 
 .footer .box-container .box h3{
     color:#333;
-    font-size: 2.5rem;
+    font-size: 2rem;
     padding:1rem 0;
 }
 
@@ -326,7 +326,7 @@ header .fa-bars{
     display: block;
     color:#666;
     font-size: 1.5rem;
-    padding:1rem 0;
+    padding:.5rem 0;
 }
 
 .footer .box-container .box a:hover{
@@ -346,7 +346,7 @@ header .fa-bars{
     font-size: 2rem;
     color:#333;
     border-top: .1rem solid rgba(0,0,0,.1);
-    padding-bottom: 9rem;
+    padding-bottom: 2rem;
 }
 
 .footer .credit span{
@@ -441,4 +441,22 @@ header .fa-bars{
     width: 150px;
     cursor: pointer;
     
+}
+
+.social-media-icon {
+    padding: 8px;
+    background: #222;
+    color: #fff;
+    border-radius: 4px;
+}
+
+a.social-media-icon:hover{
+    background: #fff!important;
+    color: #e84393!important;
+}
+
+.footer .box-container .social-media h3{
+    color:#333;
+    font-size: 2rem;
+    padding:1rem 0;
 }
