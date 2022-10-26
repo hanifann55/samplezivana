@@ -172,7 +172,7 @@ header .fa-bars {
 }
 
 .about .video0 {
-  margin-bottom: 300px;
+  margin-bottom: 100px;
 }
 
 .video-inline .video1 {
@@ -212,7 +212,7 @@ header .fa-bars {
   font-size: 1.5rem;
   color: #999;
   padding: 0.5rem 0;
-  padding-top: 1rem;
+  padding-top: 5.3rem;
   line-height: 1.5;
 }
 
@@ -474,3 +474,4 @@ a.social-media-icon:hover {
   font-size: 2rem;
   padding: 1rem 0;
 }
+
